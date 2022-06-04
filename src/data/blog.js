@@ -1,4 +1,5 @@
 import logo from "../assets/logo.svg";
+// console.log(logo)
 
 const blogData = {
   name: "Underreacted",
@@ -29,3 +30,5 @@ const blogData = {
 };
 
 export default blogData;
+
+
